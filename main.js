@@ -105,6 +105,5 @@
     initListeners()
     tick();
   }
-
-  init()
-})
+  init();
+}())
